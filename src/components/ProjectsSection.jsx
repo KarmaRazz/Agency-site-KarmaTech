@@ -1,10 +1,10 @@
 import { ArrowRight, Github } from "lucide-react";
-import bankHotelImg from "../assets/projects/bankhotel.png";
-import bhkRoll from "../assets/projects/bhkroll.png";
-import kidsSchool from "../assets/projects/kidsschool.png";
-import brainWave from "../assets/projects/brainwave.png";
-import vaani from "../assets/projects/evaani.png";
-import annmarie from "../assets/projects/annmarie.png";
+import bankHotelImg from "../assets/Projects/bankhotel.png";
+import bhkRoll from "../assets/Projects/bhkroll.png";
+import kidsSchool from "../assets/Projects/kidsschool.png";
+import brainWave from "../assets/Projects/brainwave.png";
+import vaani from "../assets/Projects/evaani.png";
+import annmarie from "../assets/Projects/annmarie.png";
 
 
 const projects = [
