@@ -5,8 +5,7 @@ import kidsSchool from "../assets/Projects/kidsschool.png";
 import brainWave from "../assets/Projects/brainwave.png";
 import vaani from "../assets/Projects/evaani.png";
 import annmarie from "../assets/Projects/annmarie.png";
-import restaurant from "../assets/Projects/restaurant.png;"
-
+import restaurant from "../assets/Projects/restaurant.png";
 
 const projects = [
   {
