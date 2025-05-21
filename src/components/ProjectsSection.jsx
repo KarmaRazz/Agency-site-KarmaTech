@@ -5,6 +5,7 @@ import kidsSchool from "../assets/Projects/kidsschool.png";
 import brainWave from "../assets/Projects/brainwave.png";
 import vaani from "../assets/Projects/evaani.png";
 import annmarie from "../assets/Projects/annmarie.png";
+import restaurant from "../assets/Projects/restaurant.png;"
 
 
 const projects = [
@@ -30,12 +31,12 @@ const projects = [
   },
   {
     id: 3,
-    title: "BHK Roll Restaurant Website",
+    title: "Grilli Restaurant Website",
     description:
       "A custom website for a Canada-based restaurant, built with a clean and responsive design on their own domain.",
-    image: bhkRoll,
-    tags: ["TypeScript", "D3.js", "Next.js"],
-    demoUrl: "https://bhkroll.com/",
+    image: restaurant,
+    tags: ["HTML", "CSS", "Javascript"],
+    demoUrl: "https://grilli-chi-six.vercel.app/",
     githubUrl: "#",
   },
   {
@@ -67,6 +68,16 @@ const projects = [
     tags: ["wordpress"],
     demoUrl: "https://annmariespa.com/",
     githubUrl: "https://github.com/KarmaRazz/",
+  },
+    {
+    id: 7,
+    title: "BHK Roll Restaurant Website",
+    description:
+      "A custom website for a Canada-based restaurant, built with a clean and responsive design on their own domain.",
+    image: bhkRoll,
+    tags: ["TypeScript", "D3.js", "Next.js"],
+    demoUrl: "https://bhkroll.com/",
+    githubUrl: "#",
   },
 
   
